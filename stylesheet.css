@@ -1,0 +1,26 @@
+p {
+	font-family: Verdana;
+	font-size: 20px; color: white;
+
+}
+h1 {
+	color: white;
+}
+a {
+	color: red;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+body
+{
+	background-image: url("https://www.hdwallpapers.in/thumbs/2016/mi_vr_headset-t1.jpg");
+	 background-repeat: no-repeat; 
+	background-size: cover;
+}
+h2 {
+	color: red;
+}
+ul{
+	color:white;
+}
